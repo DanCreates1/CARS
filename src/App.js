@@ -3,11 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      
-      </header>
-    </div>
+      <>
+        <h1>Car</h1>
+        <input placeholder='Enter car name'></input>
+      </>
+    
   );
 }
 
