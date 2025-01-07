@@ -5,7 +5,7 @@ function App() {
   return (
       <>
         <h1>Car</h1>
-        <input placeholder='Enter car name'></input>
+        <input placeholder='Enter car name'id="inputBar"></input>
       </>
     
   );
